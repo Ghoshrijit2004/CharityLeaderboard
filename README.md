@@ -17,4 +17,6 @@ The goal of Charity Leaderboard is to create a transparent and immutable record 
 - **Leaderboard System:** Ranks donors based on total donations.  
 - **Transparent and Secure:** Uses blockchain for immutable and public donation records.  
 - **Gas-efficient Storage:** Optimized contract structure for lower transaction fees.  
-- **Retrieval Functions:** Allows users to check their donation amount and view the leaderboard.  
+- **Retrieval Functions:** Allows users to check their donation amount and view the leaderboard.
+  ## Contract Address:
+  0x5746323e6d703a10840aedaA392D7885530C3e6b
