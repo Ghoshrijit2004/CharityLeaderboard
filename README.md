@@ -1,4 +1,4 @@
-- Charity Leaderboard -
+## Charity Leaderboard
 
 ## Project Description  
 Charity Leaderboard is a decentralized smart contract that tracks the most generous donors by recording and ranking donations. This project aims to encourage charitable contributions by recognizing and displaying top donors.
